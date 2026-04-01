@@ -44,7 +44,6 @@ jobs:
           haxelib git discord_rpc https://github.com/Aidan63/linc_discord-rpc.git
           haxelib git extension-webm https://github.com/KadeDev/extension-webm.git
           haxelib git faxe https://github.com/uhrobots/faxe.git
-          haxelib git linc_luajit https://github.com/andreasronning/linc_luajit.git
 
       - name: Setup lime
         shell: bash
