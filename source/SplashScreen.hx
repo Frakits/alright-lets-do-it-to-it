@@ -19,7 +19,7 @@ import flixel.addons.transition.TransitionData;
 import flixel.graphics.FlxGraphic;
 
 class SplashScreen extends MusicBeatState {
-	var curSelection:Int = 13;
+	var curSelection:Int = 0;
 	var curPage:FlxSpriteGroup = null;
 
 	var pages:Array<FlxSpriteGroup> = [];
