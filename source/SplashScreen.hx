@@ -930,6 +930,7 @@ class SplashScreen extends MusicBeatState {
 				FlxG.camera.fade(0xFFFFFFFF);
 			});
 			new FlxTimer().start(10.5, (t:FlxTimer)->{
+				FlxG.stage.window.title = "That Other Sonic Mod - Kade Engine";
 				imRealFuckingLazyNow.logoFake.visible = false;
 				imRealFuckingLazyNow.logoReal.visible = true;
 				FlxG.camera.fade(0xFFFFFFFF, 0.1, true);
