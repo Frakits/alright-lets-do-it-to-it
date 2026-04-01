@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="sonicdialouge3.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="sonic dia30000" x="31" y="31" width="215" height="237" frameX="0" frameY="0" frameWidth="303" frameHeight="237"/>
+	<SubTexture name="sonic dia30001" x="291" y="31" width="244" height="237" frameX="0" frameY="0" frameWidth="303" frameHeight="237"/>
+	<SubTexture name="sonic dia30002" x="580" y="31" width="274" height="237" frameX="0" frameY="0" frameWidth="303" frameHeight="237"/>
+	<SubTexture name="sonic dia30003" x="31" y="313" width="303" height="237"/>
+</TextureAtlas>

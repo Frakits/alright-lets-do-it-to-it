@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bfdialouge.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bf dia0000" x="31" y="31" width="234" height="294" frameX="-129" frameY="0" frameWidth="363" frameHeight="294"/>
+	<SubTexture name="bf dia0001" x="310" y="31" width="277" height="294" frameX="-86" frameY="0" frameWidth="363" frameHeight="294"/>
+	<SubTexture name="bf dia0002" x="632" y="31" width="320" height="294" frameX="-43" frameY="0" frameWidth="363" frameHeight="294"/>
+	<SubTexture name="bf dia0003" x="31" y="370" width="363" height="294"/>
+</TextureAtlas>
