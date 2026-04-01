@@ -1,0 +1,119 @@
+
+
+This End User Agreement ("Agreement") governs your access to and use of the modification known as "That One Sonic Mod" (the "Mod"). By downloading, installing, or using the Mod, you ("User") agree to be bound by the following terms.
+
+
+SECTION 1. ACCEPTANCE OF TERMS
+
+By proceeding, the User confirms that they have read and understood this Agreement in full, accept all terms and conditions stated herein, and acknowledge the Mod's intentional blending of standard software practices with fictional narrative elements. If the User does not agree, they must immediately cease use and remove all copies of the Mod from their system.
+
+
+SECTION 2. LICENSE GRANT
+
+The Mod is licensed, not sold. The User is granted a limited, revocable, non-exclusive, non-transferable license to install and use the Mod for personal, non-commercial purposes, and to access all included audiovisual and interactive features. No ownership rights are transferred under this Agreement. The creators retain all intellectual property rights associated with the Mod and its contents.
+
+
+SECTION 3. RESTRICTIONS
+
+The User shall not modify, reverse engineer, decompile, or disassemble the Mod in whole or in part. The User shall not redistribute or commercially exploit any part of the Mod, extract assets including audio, visuals, scripts, or data structures, or interfere with intended behaviors, triggers, or scripted events. Attempts to bypass, circumvent, or manipulate any system within the Mod are strictly prohibited. Violation of any restriction set forth in this section results in immediate termination of this Agreement and all rights granted herein.
+
+
+SECTION 4. CONTENT AND EXPERIENCE NOTICE
+
+The User acknowledges that the Mod may include visual distortion, flickering imagery, and rapid transitions, as well as dynamic audio variations and irregular timing cues. The Mod is designed to include events that disrupt player expectation and perception. Certain narrative sequences may create the impression of direct communication or observation. These elements are intentional and form part of the Mod's creative direction. The User accepts full responsibility for engaging with such content.
+
+
+SECTION 5. UPDATES AND REVISIONS
+
+The creators reserve the right to update or modify the Mod at any time without prior notice. New systems, behaviors, or narrative elements may be introduced at the creators' discretion. Continued use of the Mod following any update constitutes acceptance of all changes made.
+
+
+SECTION 6. TERMINATION
+
+This Agreement remains in effect until terminated. Failure to comply with any term outlined in this Agreement will result in immediate revocation of all rights granted herein. Upon termination, the User must delete all copies of the Mod and any associated files from their system.
+
+
+SECTION 7. DISCLAIMER OF WARRANTIES
+
+The Mod is provided "as is," without warranty of any kind, express or implied. The creators disclaim all liability for software performance issues, compatibility limitations, unexpected gameplay outcomes, and any other technical or experiential irregularities. Use of the Mod is at the User's sole risk.
+
+
+SECTION 8. LIMITATION OF LIABILITY
+
+To the fullest extent permitted by applicable law, the creators shall not be liable for indirect or consequential damages, loss of data or system instability, or emotional, psychological, or physiological responses to the Mod's content. The creators shall not be held responsible for any outcomes arising from the User's willful engagement with the Mod's immersive and disorienting elements.
+
+
+SECTION 9. GOVERNING TERMS
+
+This Agreement constitutes the entire understanding between the User and the creators with respect to the Mod. Any prior agreements, representations, or understandings, whether written or oral, are superseded by this document. If any provision of this Agreement is found to be unenforceable, the remaining provisions shall continue in full force and effect.
+
+
+----------------------------------------------------------------
+
+
+TERMS OF SERVICE (TOS)
+System Interaction and Narrative Data Policy
+That One Sonic Mod
+
+
+SECTION 1. OVERVIEW
+
+This Terms of Service outlines how the Mod simulates interaction with user data as part of its narrative and gameplay systems. These terms are intended to provide transparency regarding the Mod's internal processes and the fictional framework within which certain data-related language is used. Users are encouraged to read this document carefully before proceeding.
+
+
+SECTION 2. SIMULATED DATA COLLECTION
+
+During gameplay, the Mod may simulate the collection of input timing and key presses, performance metrics and accuracy scores, session-based interaction patterns, and response latency across various gameplay events. These simulated systems exist solely to enhance gameplay and narrative immersion. No information gathered through these processes is transmitted to any external server, individual, or third party.
+
+
+SECTION 3. THE "pizzapwner" ENTITY
+
+Within the context of the Mod's narrative, pizzapwner is presented as a supervisory presence tied to the Mod's internal systems, a fictionalized authority overseeing gameplay behavior and progression, and a meta-character used to frame certain adaptive or reactive features of the experience.
+
+References to pizzapwner throughout the Mod may include system messages or formal acknowledgments, implied observation of gameplay performance and user decision-making, narrative suggestions of awareness, oversight, or ongoing attention, and language designed to create the impression of a persistent and attentive presence.
+
+The User may at various points feel observed. This is intentional.
+
+Clarification: All references to pizzapwner as an observing or data-collecting entity are purely fictional and part of the Mod's artistic design. They do not represent real-world monitoring, data access, surveillance, or tracking of individual activity in any form. pizzapwner is not a real person, organization, or automated system operating outside the boundaries of the Mod.
+
+
+SECTION 4. DATA OWNERSHIP (NARRATIVE CONTEXT)
+
+Within the fictional framework of the Mod, gameplay data is narratively "assigned" to in-universe entities such as The FNF Elites and pizzapwner. This assignment exists only as a thematic device and does not reflect any real-world data transfer, storage, or ownership claim. The User retains all rights to their own personal data at all times.
+
+
+SECTION 5. USE OF SIMULATED DATA
+
+The Mod may use internally gathered gameplay data to adjust difficulty dynamically in response to User performance, trigger specific audiovisual and narrative events, and create a personalized and reactive experience tailored to the User's session. All such processes occur entirely within the Mod environment. No personal data is transmitted, stored externally, or accessed by any party outside the application.
+
+
+SECTION 6. PRIVACY STATEMENT
+
+The creators do not intentionally collect, store, or distribute personally identifiable information. Any suggestion within the Mod of surveillance, tracking, persistent monitoring, or data harvesting is fictional and limited entirely to in-game presentation. The creators are committed to the privacy of all Users and have designed the Mod's systems accordingly.
+
+Note: If at any point during your session you feel as though you are being watched, that feeling is part of the experience. It is not an indication of any real-world process. Probably.
+
+
+SECTION 7. PERSISTENCE DISCLAIMER
+
+Certain elements of the Mod may imply continued presence or awareness extending beyond active gameplay. These implications are narrative in nature and are not technically functional outside the Mod environment. Any sense of ongoing observation after the application has been closed is a residual effect of immersive design. The creators are not responsible for the duration or intensity of that feeling.
+
+
+SECTION 8. THIRD-PARTY ACKNOWLEDGMENT
+
+The Mod makes no affiliation claims with respect to any third-party platforms, developers, or intellectual property holders. All characters, references, and assets used within the Mod are employed under fan-modification conventions and remain the property of their respective owners. pizzapwner, The FNF Elites, and all associated in-universe terminology are original fictional constructs created for the purposes of this Mod.
+
+
+SECTION 9. AMENDMENTS
+
+These terms may be updated at any time without prior notice to the User. Continued use of the Mod following any amendment constitutes the User's acceptance of the revised terms. The creators recommend reviewing this document periodically, though they acknowledge you have already come too far to stop now.
+
+
+SECTION 10. FINAL ACKNOWLEDGMENT
+
+By selecting "Accept," the User confirms that they understand the distinction between functional systems and fictional elements, consent to all terms outlined in both the End User Agreement and these Terms of Service, and willingly engage with the Mod's immersive and meta-narrative design.
+
+The User further acknowledges that pizzapwner has been made aware of this acceptance.
+
+Thank you for your cooperation.
+

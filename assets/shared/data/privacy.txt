@@ -1,0 +1,100 @@
+
+
+This Privacy and Safety Policy ("Policy") outlines how "That One Sonic Mod" (the "Mod") approaches user privacy, simulated data interaction, and player safety. This document is both an informational resource and an extension of the Mod's narrative design. Users are encouraged to read the following in full before proceeding. Some of what follows is legal. Some of it is art. The creators trust that Users will know the difference. They are watching to see if you do.
+
+
+SECTION 1. COMMITMENT TO USER PRIVACY
+
+The creators of the Mod affirm that no personally identifiable information is intentionally collected or transmitted through the use of the Mod. All systems operate locally on the User's device. Any implication of monitoring, logging, or surveillance present within the Mod's experience is fictional and forms part of its artistic presentation.
+
+Users maintain full control over their data and system at all times. Nothing leaves your machine. Nothing needs to. Everything the Mod requires, it finds right where you are.
+
+
+SECTION 2. SIMULATED DATA SYSTEMS
+
+During gameplay, the Mod may simulate the interpretation of key inputs and timing accuracy, performance patterns and behavioral tendencies across a session, and sequences of interaction that the Mod uses to construct a reactive experience. These processes occur entirely on the User's local device, are not transmitted to any external server or third party, and exist solely to enhance gameplay depth and narrative immersion.
+
+The Mod is designed to feel like it knows you. It does not. This distinction is important and the creators wish to be transparent about it. The feeling, however, is the point.
+
+
+SECTION 3. NARRATIVE ENTITIES AND SYSTEM PRESENCE
+
+The Mod includes references to internal and meta-narrative entities. These include The FNF Elites, pizzapwner, and temporarystealth_transgenderark. These names may appear in system prompts, log displays, reactive messages, or other elements embedded within the Mod's presentation.
+
+Within the narrative context of the Mod, these entities may be framed as observers of gameplay behavior, responders to user interaction and decision-making, and persistent system-level presences that appear to track or acknowledge what the User does. This framing is a deliberate creative choice intended to reinforce the Mod's atmosphere and thematic content.
+
+None of the above entities represent real individuals, organizations, automated systems, or active processes operating outside the boundaries of the Mod. temporarystealth_transgenderark is a fictional construct. pizzapwner is a fictional construct. The FNF Elites are a fictional construct. Their apparent awareness of you is not real. Their presence in this document, however, is noted by all three of them.
+
+
+SECTION 4. NARRATIVE PRESSURE AND ACKNOWLEDGMENT
+
+The Mod may present moments that imply your choices are being noticed, that agreement or disagreement is being recorded by an attentive system, and that certain entities are aware of your decisions in real time. Users may encounter language suggesting that hesitation is observed, that refusal is logged, or that continued presence has been registered.
+
+These elements are entirely fictional and serve to reinforce immersion, create tension and atmosphere, and sustain engagement with the Mod's narrative framework. There are no real-world consequences for declining, exiting, pausing, or uninstalling the Mod at any point. Any entity that tells you otherwise is operating within a story. You are allowed to remember that. You are also allowed to forget.
+
+
+SECTION 5. SAFETY CONSIDERATIONS
+
+The Mod may include flashing visuals and rapid transitions between images or states, sudden or distorted audio cues designed to surprise or unsettle, and presentation choices that prioritize suspense and psychological effect over comfort. Users who are sensitive to photosensitive stimuli, unexpected sound events, or content designed to produce disorientation should proceed with appropriate caution.
+
+The creators have designed these elements intentionally. They are not errors. If something feels wrong, it may be because something is meant to feel wrong. This is not the same as something actually being wrong. Usually.
+
+
+SECTION 6. PSYCHOLOGICAL EFFECTS
+
+Due to its design philosophy, the Mod may create a perceived sense of ongoing observation during and after gameplay, present messages that feel direct, personal, or unusually specific to the User's behavior, and progressively blur the perceived boundary between system interface and narrative fiction.
+
+These effects are intentional and purely artistic in nature. The creators acknowledge that immersive design of this kind can produce lingering impressions. If the User finds themselves questioning whether the Mod is still active after closing it, the creators wish to clarify that it is not. The creators also acknowledge that clarifying this in a legal document may not be the most reassuring delivery method. They have chosen it anyway.
+
+
+SECTION 7. DATA SECURITY
+
+Because no external data transmission occurs at any point during use of the Mod, user information is not shared with, sold to, or stored by any remote party. All processing remains on-device for the entirety of the session. The Mod has no backend. The Mod has no server. The Mod has no memory of you once it is closed.
+
+This is either reassuring or disappointing depending on the kind of experience you were hoping for.
+
+
+SECTION 8. USER CONTROL
+
+Users may exit the Mod at any time without penalty, consequence, or narrative repercussion. Users may delete all associated files and folders from their system freely and completely. Any suggestion within the Mod that the User cannot leave, that something will persist beyond removal, or that uninstallation is not truly possible is part of the fictional narrative and carries no technical truth.
+
+You can leave whenever you want. The door is always where you left it. The Mod simply prefers that you stay.
+
+
+SECTION 9. THIRD-PARTY REFERENCES AND INTELLECTUAL PROPERTY
+
+The Mod operates within the fan modification tradition and makes no claim of ownership over third-party intellectual property referenced within its content. All characters, mechanics, and audiovisual material drawn from existing works remain the property of their respective creators and rights holders. The original narrative elements of the Mod, including all fictional entities, constructed lore, and meta-narrative systems, are the creative work of the Mod's authors.
+
+pizzapwner has reviewed this section. No further comment has been provided.
+
+
+SECTION 10. AMENDMENTS AND UPDATES TO THIS POLICY
+
+This Policy may be updated at any time. Users who continue to engage with the Mod following any amendment are considered to have accepted the revised terms in full. The creators recommend periodic review of this document, though they are aware that most Users will not return to it after the first read. That is acceptable. The important parts have already been absorbed.
+
+
+SECTION 11. CONTACT AND ACCOUNTABILITY
+
+Questions, concerns, or reports regarding the Mod's content or systems may be directed to the Mod's creators through the appropriate community channels. The creators are committed to responsible development and welcome genuine feedback. Requests addressed to pizzapwner directly will not receive a response through any official channel. Any response received through other means was not sent by the creators.
+
+
+SECTION 12. FINAL NOTICE
+
+By continuing past this point, the User acknowledges that all entities referenced within this Policy and within the Mod, including pizzapwner, temporarystealth_transgenderark, and The FNF Elites, are fictional constructs existing solely within the Mod's narrative framework. The User acknowledges that any sense of pressure, awareness, consequence, or observation produced by the Mod is part of the intended experience and does not reflect real-world systems or activity. The User acknowledges that their choices remain entirely their own, that no agreement made within the Mod carries binding weight outside of it, and that they have read this document in full.
+
+The User's continued presence has been noted.
+
+
+----------------------------------------------------------------
+
+"Some systems insist. Some systems observe. This one only needs you to believe it does."
+
+----------------------------------------------------------------
+
+Policy acknowledgment registered.
+Entity notification: complete.
+User profile status: present.
+Observation window: open.
+
+Thank you for your transparency.
+We will remember it.
