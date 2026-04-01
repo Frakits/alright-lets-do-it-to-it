@@ -172,7 +172,7 @@ class CreditsState extends MusicBeatState
 		if (accepted)
 		{
 			var link = "https://x.com/sonic_hedgehog/status/1252356656320491524";
-			if (songs[curSelected].songName == "saster") link = "https://x.com/sub0ru";
+			if (songs[curSelected].songName == "saster") link = "https://fixupx.com/sub0ru/status/1439943638356692997?s=20";
 			#if linux
 			Sys.command('/usr/bin/xdg-open', [link]);
 			#else

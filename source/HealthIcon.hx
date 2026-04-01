@@ -26,6 +26,7 @@ class HealthIcon extends FlxSprite
 		animation.add('siivkoi', [7, 7], 0, false, isPlayer);
 		animation.add('frakits', [8, 8], 0, false, isPlayer);
 		animation.add('pizzapwner', [9, 9], 0, false, isPlayer);
+		animation.add('beni', [19, 19], 0, false, isPlayer);
 		animation.add('mom', [6, 7], 0, false, isPlayer);
 		animation.add('mom-car', [6, 7], 0, false, isPlayer);
 		animation.add('tankman', [8, 9], 0, false, isPlayer);
